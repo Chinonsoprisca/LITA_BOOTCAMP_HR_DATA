@@ -67,4 +67,7 @@ This involves identifying data errors and then changing, updating or removing da
 
 
 ### Findings and Recommendations
-
+- Male has the highest attrition 
+- 25-34 Age group has highest attrition among other age groups
+- Life Science (Education Field) has highest attrition
+- R&D department has highest attrition
