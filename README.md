@@ -46,7 +46,11 @@ This involves identifying data errors and then changing, updating or removing da
 
 ### Exploratory Data Analysis
 ---
-
+- Total number of Attrition
+- Attrition rate
+- Attrition by educational field
+- Attrition by age group and gender
+- Attrition by Department
 
 ### Data Analysis
 ---
@@ -63,6 +67,4 @@ This involves identifying data errors and then changing, updating or removing da
 
 
 ### Findings and Recommendations
-- South had the highest sales in both sales year (2023 and 2024).
-- West had lowest sales total.
-- Shoes had the highest sales in both sales year and Socks had lowest sales.
+
