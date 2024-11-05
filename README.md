@@ -18,6 +18,8 @@ Employee's Attrition
 
 [Data Visualization](#data-visualization)
 
+[Finding and Recommendation](#finding-and-recommendation)
+
 
 ### Project Overview
 ---
@@ -66,7 +68,7 @@ This involves identifying data errors and then changing, updating or removing da
 ![Screenshot 2024-11-05 135700](https://github.com/user-attachments/assets/c6a30b1e-ee09-4c47-a292-8b96d742727f)
 
 
-### Findings and Recommendations
+### Finding and Recommendation
 - Male has the highest attrition 
 - 25-34 Age group has highest attrition among other age groups
 - Life Science (Education Field) has highest attrition
