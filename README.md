@@ -74,5 +74,6 @@ This involves identifying data errors and then changing, updating or removing da
 - Life Science (Education Field) has highest attrition
 - R&D department has highest attrition
 - could it be that the male leave for a better job or they are not well paid?
-- The management should develop a means of getting feedback from the employees, this will help discover and address attrition.
--   
+- The salary should be reviewed by management
+- Create a more elaborate feedback means, to find out what makes some customers dissatisfied
+- The company should invest in things that will increase staff welfare and satisfaction
